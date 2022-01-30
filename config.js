@@ -9,8 +9,8 @@ const CONFIG = {
     btnYes: 'Thoát',
     btnNo: 'Tiếp tục',
     question: 'Oh no, không nhận lì xì sao, thui thì cho cảm nghĩ của mọi người về An ik',
-    reply: 'Mong 
-    btnReply: 'An đẹp troai qué',
+    reply: 'An đẹp troai qué'
+    btnReply: 'Gửi',
     mess: 'kk mình biết mà',
     messDesc: 'Okayyy🥰. Cảm ơn mọi người nhiều nha 😘😘',
     btnAccept: 'Ok',
