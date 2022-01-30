@@ -10,7 +10,6 @@ const CONFIG = {
     btnNo: 'Tiếp tục',
     question: 'Oh no, không nhận lì xì sao, thui thì gửi cho An một câu nói trong năm 2022 ik.',
     btnReply: 'Gửi cho bạn <3',
-    reply: '',
     mess: 'Okayyy🥰. Cảm ơn mọi người nhiều nha 😘😘',
     messDesc: 'Chúc mọi người năm mới thật nhiều hạnh phúc nà',
     btnAccept: 'Ok',
